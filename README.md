@@ -1,19 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm yamaga-shu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamaga-shu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a freelance web engineer based in Japan, working mainly with PHP (Laravel), JavaScript (Next.js), and Go.
+With a strong focus on full-stack development, I help startups and small teams build web applications from the ground up — from prototyping to production.
 
+### 🛠 Tech Stack
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- **Backend**: PHP (Laravel), Go (Echo), Node.js
+- **Database**: MySQL, PostgreSQL, SQLite
+- **DevOps / Infra**: Docker, GitHub Actions
+- **Others**: GraphQL, REST API, TDD, DDD, Clean Architecture
 
-<!--
-**yamaga-shu/yamaga-shu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Background
+I started my career as a web developer in a small agency, then transitioned to freelancing to focus on projects that value both quality and flexibility.
+I've worked on internal tools, membership systems, data visualization dashboards, and technical advisory for startups.
 
-Here are some ideas to get you started:
+Currently, I'm supporting early-stage startups as a technical advisor — offering guidance on system design, architecture decisions, and local development environment setup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Interests
+- Domain-Driven Design (DDD) for small-scale systems
+- Learning Rust and low-latency systems
+- Private networking (e.g., WireGuard with Raspberry Pi)
+- Building tools that help people understand their financial future
+
+If you're working on something interesting or want to collaborate, feel free to reach out!
