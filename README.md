@@ -18,5 +18,5 @@ I've worked on internal tools, membership systems, data visualization dashboards
 - Domain-Driven Design (DDD) for small-scale systems
 - Learning Rust and low-latency systems
 - Private networking (e.g., WireGuard with Raspberry Pi)
-- 
+
 If you're working on something interesting or want to collaborate, feel free to reach out!
