@@ -15,7 +15,7 @@ I started my career as a web developer in a small agency, then transitioned to f
 I've worked on internal tools, membership systems, data visualization dashboards, and technical advisory for startups.
 
 ### 🔍 Interests
-- Domain-Driven Design (DDD) for small-scale systems
+- Domain-Driven Design (DDD)
 - Learning Rust and low-latency systems
 - Private networking (e.g., WireGuard with Raspberry Pi)
 
