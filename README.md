@@ -5,7 +5,7 @@ With a strong focus on full-stack development, I help startups and small teams b
 
 ### 🛠 Tech Stack
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Backend**: PHP (Laravel), Go , Node.js
+- **Backend**: PHP (Laravel), Ruby (Rails), Go , Node.js
 - **Database**: MySQL, PostgreSQL, SQLite
 - **DevOps / Infra**: Docker, GitHub Actions
 - **Others**: GraphQL, REST API, TDD, DDD, Clean Architecture
@@ -18,5 +18,6 @@ I've worked on internal tools, membership systems, data visualization dashboards
 - Domain-Driven Design (DDD)
 - Learning Rust and low-latency systems
 - Private networking (e.g., WireGuard with Raspberry Pi)
+- Kubernetes on cloud (cluster design, deployment, and monitoring)
 
 If you're working on something interesting or want to collaborate, feel free to reach out!
