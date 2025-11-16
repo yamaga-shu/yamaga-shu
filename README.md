@@ -21,3 +21,7 @@ I've worked on internal tools, membership systems, data visualization dashboards
 - Kubernetes on cloud (cluster design, deployment, and monitoring)
 
 If you're working on something interesting or want to collaborate, feel free to reach out!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamaga-shu&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamaga-shu&stats_format=bytes)
